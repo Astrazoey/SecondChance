@@ -1,0 +1,1 @@
+Prevents one shot deaths
